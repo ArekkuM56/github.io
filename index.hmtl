@@ -1,14 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Alex Murray</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>alex murray</title>
 </head>
-
 <body>
-  <a href="#">art</a><br>
-  <a href="#">architecture</a><br>
-  <a href="#">music</a><br>
+  <h1>alex murray</h1>
+
+  <p>
+    <a href="#">architecture</a><br>
+    <a href="#">art</a><br>
+    <a href="#">music</a><br>
+    <a href="#">video</a><br>
+    <a href="#">writing</a><br>
+    <a href="#">about</a>
+  </p>
 </body>
 </html>
